@@ -46,7 +46,7 @@ public class ExceptionName extends Exception {
 
 ```
 
-## Przydatne klasy
+# Przydatne klasy
 
 - StringBuilder - https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuilder.html
 - Stream - https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html
