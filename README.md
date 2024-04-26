@@ -8,3 +8,4 @@
 6. https://github.com/kurzynam/OOP2024
 7. https://github.com/kdmitruk/java_lab_2024
 6. https://github.com/Jcc0b03/Kolos2022
+7. https://github.com/G0bi74/Kolos2023
