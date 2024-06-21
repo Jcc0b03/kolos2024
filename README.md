@@ -9,6 +9,7 @@
 - https://github.com/kdmitruk/java_lab_2024
 - https://github.com/Jcc0b03/Kolos2022
 - https://github.com/G0bi74/Kolos2023
+- https://github.com/rvabka/powtorzenieJava
 
 ## Odczytywanie pliku (klasa Scanner)
 
